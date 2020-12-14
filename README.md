@@ -4,6 +4,5 @@
 
 *Projects:*
 - Completing and deploying my personal website.
-- CodeForces problem solving.
-- Coding Conway's Game of Life.
+- Leetcode grind.
 - Building a chess engine.
