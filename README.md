@@ -4,4 +4,4 @@
 
 *Projects:*
 - Leetcode grind.
-- Building a chess engine.
+- other stuff tbd
