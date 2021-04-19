@@ -4,4 +4,5 @@
 
 *Projects:*
 - Leetcode grind.
-- other stuff tbd
+- Fixing my god awful website
+- Summer stuff :P
