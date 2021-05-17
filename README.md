@@ -3,6 +3,7 @@
 #### [me](http://www.siddarthdagar.me)
 
 *Projects:*
-- Leetcode grind.
+- Leetcode grind
 - Fixing my god awful website
-- Summer stuff :P
+- Courseography
+- Traversing Wikipedia articles through a graph
