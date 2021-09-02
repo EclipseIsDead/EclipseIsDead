@@ -26,7 +26,7 @@
 <br>
 <samp>
   <p align="center">
-    ════ ⋆★⋆ ════<br>
+    ════════<br>
     From <a href="https://github.com/kevinjycui/kevinjycui">here</a>
   </p>
 </samp>
