@@ -2,6 +2,6 @@
 <p align="center"><br>
   <samp>
     「 Computer Science Specialist + Mathematics Major @ <b>University of Toronto</b> 」<br>
-     A fan of C/C++, TS, Python and Asssembly.
+     A fan of C/C++, TS, Python and Assembly.
   </samp>
 </p>
